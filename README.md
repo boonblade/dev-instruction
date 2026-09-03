@@ -30,8 +30,8 @@ Claude Code 프로젝트에 공통 적용하는 **범용 개발 지침 템플릿
 | 6. 성장 | 실패 사례마다 해당 페르소나 파일에 날짜와 함께 교정 추가 | 운영 |
 
 4단계는 손으로 해도 되고, 같은 절차를 자동화한 별도 스킬
-[persona-governance](https://github.com/boonblade/persona-governance)(`SKILL.md`를
-`~/.claude/skills/persona-governance/`에 복사 후 대상 프로젝트에서 `/persona-governance`)를
+[dev-persona-governance](https://github.com/boonblade/dev-persona-governance)(`SKILL.md`를
+`~/.claude/skills/dev-persona-governance/`에 복사 후 대상 프로젝트에서 `/dev-persona-governance`)를
 써도 된다. 스킬은 선택 사항이며 `CLAUDE.md` 본문은 스킬 유무와 무관하게 동작한다.
 
 ## 원칙
